@@ -360,9 +360,13 @@ h6{font-size: 16px;}
     border:none;
     display: inline-block;
     text-decoration: none;
+    top: 50%;
+    left: 50%;
 
 
 }
+
+
 
 
 
@@ -405,3 +409,5 @@ h6{font-size: 16px;}
 	}
 
 }
+
+
